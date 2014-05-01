@@ -1,0 +1,13 @@
+#*.gitignore
+*DS_Store
+local.properties
+obj/
+bin/
+libs/
+xcshareddata/
+xcdebugger/
+*xcuserstate
+
+gen/
+xcscheme/
+xcuserdata/
